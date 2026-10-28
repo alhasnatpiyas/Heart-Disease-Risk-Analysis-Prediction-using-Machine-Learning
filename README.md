@@ -1,4 +1,4 @@
-# Heart-Disease-Risk-Analysis-Prediction-using-Machine-Learning
+# Heart Disease Risk Analysis Prediction using Machine Learning
 
 Overview:
 This project explores a heart disease dataset (heart.csv) to understand which patient features are linked to heart disease, and prepares the data for machine learning.
